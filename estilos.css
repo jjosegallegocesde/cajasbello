@@ -1,6 +1,10 @@
 .caja{
-    background-color: green;
-    width: 500px;
-    height: 500px;
+    
+    width:400px;
+    height: 400px;
+    padding: 100px 200px 30px;
+    border: 2px black solid;
+    margin: 100px 20px 50px 200px;
+    
 }
 
